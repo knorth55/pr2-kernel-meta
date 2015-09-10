@@ -1,10 +1,9 @@
 pr2-kernel-meta (0.0.7) precise; urgency=low
 
   * Incrementing to SVN: r1263
-   - r1126: Update to debhelper v9
-   - r1263: Move pr2-kernel into main.
+   - r1263: Updated to use ubuntu pre-packaged kernel linux-image-3.18.7-rt1, linux-headers-3.18.7-rt1
 
- -- Austin Hendrix <ahendrix@willowgarage.com>  Mon, 30 Sep 2013 11:22:21 -0700
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 7 Sep 2015 11:22:21 -0700
 
 pr2-kernel-meta (0.0.6) precise; urgency=low
 
