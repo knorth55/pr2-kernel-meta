@@ -1,7 +1,7 @@
 Source: pr2-kernel-meta
 Section: config
 Priority: extra
-Maintainer: Austin Hendrix <ahendrix@willowgarage.com>
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.7.2
 
