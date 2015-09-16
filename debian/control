@@ -7,10 +7,10 @@ Standards-Version: 3.7.2
 
 Package: pr2-kernel
 Architecture: amd64
-Depends: linux-image-3.18.7-rt
+Depends: linux-image-3.18.7-rt, linux-image-3.16.0-49-generic
 Description: Metapackage for the PR2 kernel
 
 Package: pr2-kernel-headers
 Architecture: amd64
-Depends: linux-headers-3.18.7-rt
+Depends: linux-headers-3.18.7-rt, linux-headers-3.16.0-49-generic
 Description: Metapackage for PR2 kernel headers
