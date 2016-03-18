@@ -4,7 +4,7 @@ PKG=pr2-kernel-meta
 
 case "$1" in
     configure)
-        sudo grub-set-default "Ubuntu, with Linux 3.19.0-49-lowlatency"
+        sudo grub-set-default "Advanced Options for Ubuntu>Ubuntu, with Linux 3.19.0-49-lowlatency"
         sudo update-grub
     ;;
 
