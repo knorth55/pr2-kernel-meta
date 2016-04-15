@@ -7,10 +7,10 @@ Standards-Version: 3.7.2
 
 Package: pr2-kernel
 Architecture: amd64
-Depends: linux-image-3.19.0-49-lowlatency, linux-image-3.19.0-42-generic
+Depends: linux-image-3.19.0-49-lowlatency, linux-image-3.19.0-42-lowlatency
 Description: Metapackage for the PR2 kernel
 
 Package: pr2-kernel-headers
 Architecture: amd64
-Depends: linux-headers-3.19.0-49-lowlatency, linux-headers-3.19.0-42-generic
+Depends: linux-headers-3.19.0-49-lowlatency, linux-headers-3.19.0-42-latency
 Description: Metapackage for PR2 kernel headers
