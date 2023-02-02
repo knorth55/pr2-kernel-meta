@@ -1,0 +1,8 @@
+debian/.debhelper/*
+debian/files
+debian/pr2-kernel-headers.debhelper.log
+debian/pr2-kernel-headers.substvars
+debian/pr2-kernel-headers/*
+debian/pr2-kernel.debhelper.log
+debian/pr2-kernel.substvars
+debian/pr2-kernel/*
